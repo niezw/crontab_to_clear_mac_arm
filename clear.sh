@@ -3,4 +3,4 @@
 
 sudo purge 
 
-echo "clear success at :"+`date "+%Y/%m/%d %X"` >> /Users/coolkit/Gavin/sh_file/clear
+echo "clear success at :"+`date "+%Y/%m/%d %X"` >> /Users/xxxxx/xxxx/clear
